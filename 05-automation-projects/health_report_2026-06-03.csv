@@ -1,0 +1,4 @@
+name,cpu,memory,disk,status
+gcp-prod-01,45,62,55,healthy
+azure-vm-02,89,91,78,warning
+do-node-03,22,40,30,healthy
